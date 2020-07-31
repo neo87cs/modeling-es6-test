@@ -1,0 +1,82 @@
+[
+    {
+        "name": "1",
+        "biosType": "MAME"
+    },
+    {
+        "name": "2",
+        "biosType": "MAME"
+    },{
+        "name": "3",
+        "biosType": "MAME"
+    },{
+        "name": "4",
+        "biosType": "MAME"
+    },{
+        "name": "5",
+        "biosType": "MAME"
+    },{
+        "name": "6",
+        "biosType": "MAME"
+    },{
+        "name": "7",
+        "biosType": "MAME"
+    },{
+        "name": "8",
+        "biosType": "MAME"
+    },{
+        "name": "9",
+        "biosType": "MAME"
+    },{
+        "name": "10",
+        "biosType": "MAME"
+    },{
+        "name": "11",
+        "biosType": "MAME"
+    },{
+        "name": 1,
+        "biosType": "MAME"
+    },{
+        "name": "13",
+        "biosType": "MAME"
+    },{
+        "name": "14",
+        "biosType": "MAME"
+    },{
+        "name": "15",
+        "biosType": "MAME"
+    },{
+        "name": "16",
+        "biosType": "MAME"
+    },{
+        "name": "17",
+        "biosType": "PS"
+    },{
+        "name": "18",
+        "biosType": "PSX"
+    },{
+        "name": "19",
+        "biosType": "PSX"
+    },{
+        "name": "20",
+        "biosType": "PSX"
+    },{
+        "name": "21",
+        "biosType": "PSX"
+    },{
+        "name": "22",
+        "biosType": "PSX"
+    },{
+        "name": "23",
+        "biosType": "PSX"
+    },{
+        "name": "24",
+        "biosType": "PSX"
+    },{
+        "name": "25",
+        "biosType": "PSX"
+    },{
+        "name": "26",
+        "biosType": "PSX"
+    }
+]
